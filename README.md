@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/gabriel-alves-7a4a411aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
+## BEM VINDOS AO MEU GITHUB!
+
 ![Snake animation](https://github.com/Shinon333/Shinon333/blob/output/github-contribution-grid-snake.svg)
 
 <div>
