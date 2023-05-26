@@ -15,6 +15,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
 
+  
  ## Contatos:
 
 <div>
@@ -26,12 +27,14 @@
 </div>
   
   
+
+  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+  
 <div>
   <a href-"https://github.com/shinon333">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinon333&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinon333&layout=compact&langs_count=18&theme=react"/>
   </div>
-                             
-   
+                           
 
-![Snake animation](https://github.com/Shinon333/Shinon333/blob/output/github-contribution-grid-snake.svg)
