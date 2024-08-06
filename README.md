@@ -1,4 +1,5 @@
-### Olá! Eu sou o Shinon 333!
+### Sobre Mim
+Olá! Eu sou Gabriel Alves Ribeiro, um aspirante a engenheiro de software com uma paixão por automação e inovação tecnológica. Com uma base sólida em programação e uma mentalidade orientada para soluções, estou constantemente buscando maneiras de aplicar minha expertise para resolver problemas complexos e otimizar processos.
 
 <div  align="center"> 
   <div style="display: inline_block">
