@@ -23,10 +23,6 @@ Olá! Eu sou Gabriel Alves Ribeiro, um aspirante a engenheiro de software com um
 <a href = "mailto:gabriellvesribeiro777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-alves-7a4a411aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
-## BEM VINDOS AO MEU GITHUB!
-
-![Snake animation](https://github.com/Shinon333/Shinon333/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href-"https://github.com/shinon333">
