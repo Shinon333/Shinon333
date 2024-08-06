@@ -1,5 +1,23 @@
-### Sobre Mim
-Olá! Eu sou Gabriel Alves Ribeiro, um aspirante a engenheiro de software com uma paixão por automação e inovação tecnológica. Com uma base sólida em programação e uma mentalidade orientada para soluções, estou constantemente buscando maneiras de aplicar minha expertise para resolver problemas complexos e otimizar processos.
+# Olá! Eu sou Gabriel Alves Ribeiro 👋
+
+Sou um desenvolvedor de software com uma paixão por automação e inovação tecnológica. Tenho experiência em diversas linguagens de programação e estou sempre buscando aprender algo novo.
+
+## 🌐 Redes Sociais
+
+- [LinkedIn](https://linkedin.com/in/seuperfil)
+- [Portfólio Pessoal](https://seusite.com)
+
+## 🚀 Minhas Habilidades
+
+- **Linguagens de Programação**: Python, Java, C++
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, React
+- **Banco de Dados**: MySQL, PostgreSQL
+- **Ferramentas e Tecnologias**: Git, Docker, Jenkins
+
+## 📊 Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+
 
 <div  align="center"> 
   <div style="display: inline_block">
